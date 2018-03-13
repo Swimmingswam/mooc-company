@@ -1,0 +1,132 @@
+.topbar {
+    height: 70px;
+}
+.nav li{
+    font-size:17px;
+    line-height: 70px;
+    font-family: "微软雅黑";
+}
+.nav li a {
+    color:#000;
+    display:block;
+    padding:0px 18px;
+}
+.nav li a:hover {
+    background:  #FE0000;
+}
+.fl img {
+    padding:0px 18px;
+}
+.scroll-news {
+    margin:20px 0;
+    font:500 15px/38px "微软雅黑";
+    color:#000;
+    height: 38px;
+}
+.s-title {
+    width: 106px;
+    height: 38px;
+    background: #FE0000;
+    padding-left:44px;
+}
+.s-content {
+    width: 830px;
+    height: 38px;
+    background: #CCCCCC;
+    padding-left:20px;
+}
+.item {
+    width: 330px;
+    height: 163px;
+    border:1px solid #CCCCCC;
+    text-align: center;
+    color:#000;
+    margin-bottom:20px;
+    margin-right:1px;
+}
+.item h1 {
+    font:900 14px/33px "微软雅黑";
+}
+.i2 {
+    border:1px solid #CCCCCC;
+    width: 330px;   
+    margin-right:1px;
+}
+.i2-li {
+    border-bottom:1px solid #CCCCCC;;
+}
+.item2 h1 {
+    width: 300px;
+    height: 40px;
+    background: #FE0000;
+    padding-left:30px;
+    line-height: 40px;
+    color:#fff;
+    font:500 15px/38px "微软雅黑";
+}
+.i2-content li {
+    margin:15px 6px;
+    margin-bottom:0px;
+}
+.date {
+    padding:15px 9px;
+    background: #FE0000;
+    width: 30px;
+    height: 36px;
+    border-radius: 5px;
+    color:#fff;
+    margin-right:10px;
+}
+.item2 h2 {
+    font:900 13px/13px "微软雅黑";
+    color:#000;
+}
+.item2 p {
+    width: 257px;
+    height: 24px;
+    margin:20px 0;
+    color:#000;
+}
+.i21-content img {
+    width: 280px;
+    height: 120px;
+    margin:24px;
+    margin-bottom:5px;
+}
+.i21-content li {
+    width: 280px;
+    height: 16px;
+    margin:6px 0 3px 24px;
+    font:400 14px/14px "微软雅黑";
+    color:#000;
+}
+.i21-content ul {
+    display:inline-block
+}
+.i22-content {
+    padding:0 20px;
+}
+.i22-content h3 {
+    color:#000;
+    font-weight: 600;
+    font-size: 13px;
+    margin:13px 0;
+}
+.i22-content ul {
+    margin-bottom:11px;
+    display:inline-block;
+}
+.i22-content li {
+    width: 180px;
+    color:#000;
+    height: 20px;
+}
+.footer {
+    margin-top:6px;
+    background: #E8E8E8;
+}
+.footer p {
+    padding:22px 226px;
+    color:#000;
+    font:600 14px/14px "微软雅黑";
+}
